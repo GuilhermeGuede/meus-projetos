@@ -1,2 +1,2 @@
-# meus-projetos
+# Meus Projetos
  Projetos pessoais
