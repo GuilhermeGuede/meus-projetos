@@ -26,6 +26,6 @@ if (isset($_GET['id']) && !empty($_GET['id'])) {
     } else {
         echo json_encode(['error' => 'Nenhum resultado encontrado']);
     }
-}    
+}       
 $conexao->close();
 ?>

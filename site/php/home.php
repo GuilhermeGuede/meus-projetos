@@ -54,13 +54,17 @@ if(isset($_GET["usuario"])) {
             <div class="locked">
             <img src="../components/images/analise.png" alt="Imagem de vagas" width="130px" height="130px" style="margin-left: -40px" >
             </div><br><br>
+            <a href="curriculo_clt.php">
             <button class="btn" style="margin-top: 83px">Curriculo CLT</button>
+            </a>    
         </div>
         <div class="card">
             <div class="locked">
             <img src="../components/images/estagio.png" alt="Imagem de vagas" width="130px" height="130px" style="margin-left: -40px" >
             </div><br><br>
+            <a href="curriculo_estagio.php">
             <button class="btn" style="margin-top: 83px">Curriculo Estágio</button>
+            </a>    
         </div>
     </div>
 
